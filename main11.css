@@ -1,0 +1,11 @@
+p {
+	background: gray;
+	padding: 10px;
+}
+input {
+	display: block;
+	margin-top: 10px;
+}
+button{
+	margin-top: 5px;
+}
